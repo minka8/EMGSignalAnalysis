@@ -23,7 +23,7 @@ The notebook allows selecting the dataset by changing the `ID` parameter.
 
 ---
 
-## 🧪 Project Workflow
+## Project Workflow
 
 The notebook performs the following steps:
 
